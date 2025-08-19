@@ -6,9 +6,9 @@ Welcome to my GitHub profile! Here, I focus on building cutting-edge solutions i
 
 ---
 
-## 🌟 关于言语智能云³平台 | About YY-IC³
+## 🌟 关于言语智能云³平台 | About YYC³
 
-**言语智能云³平台** (*YanYu Intelligence Cloud³*, **YY-IC³**) 基于 **Next.js** 框架构建，旨在为语言智能应用提供全面的云端生态系统。
+**言语智能云³平台** (*YanYu Intelligence Cloud³*, **YYC³**) 基于 **Next.js** 框架构建，旨在为语言智能应用提供全面的云端生态系统。
 
 **YanYu Intelligence Cloud³ (YY-IC³)** is an advanced platform built on **Next.js**, designed to empower developers, enterprises, and researchers with state-of-the-art tools and services for language intelligence.
 
@@ -51,8 +51,8 @@ Welcome to my GitHub profile! Here, I focus on building cutting-edge solutions i
 
 ## 💡 愿景与使命 | Vision & Mission
 
-在 **YY-IC³** 平台，我们的目标是：  
-At **YY-IC³**, we strive to:
+在 **YYC³** 平台，我们的目标是：  
+At **YYC³**, we strive to:
 
 - **创新 | Innovate**: 在语言处理和云计算中开创性地推动技术发展。  
   Pioneering advancements in AI and cloud-based language processing.
@@ -65,8 +65,6 @@ At **YY-IC³**, we strive to:
 
 ## 📈 主要指标 | Key Metrics
 
-- **全球覆盖 | Global Reach**: 为全球客户和开发者提供服务。  
-  Serving clients and developers worldwide.
 - **99.9% 在线率 | 99.9% Uptime**: 稳定可靠的云基础设施。  
   Reliable and scalable cloud infrastructure.
 - **10+ 服务 | 10+ Services**: 提供全面生态系统以满足多样化需求。  
